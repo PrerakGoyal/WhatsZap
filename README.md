@@ -45,7 +45,3 @@ Or double-click `RUN_ME.bat` on Windows.
 This runs locally only. No data is sent to external servers.
 
 ---
-
-If you'd like, I can also:
-- add a `--dry-run` mode, or
-- update `RUN_ME.bat` to call `python -u send_whatsapp.py` for clearer console output.
